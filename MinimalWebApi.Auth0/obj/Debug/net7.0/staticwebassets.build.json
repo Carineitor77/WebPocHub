@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "A+Mqtm7zvroEjHlBM0SdgLvqPZV8i4X77NOszxNiuIw=",
+  "Source": "MinimalWebApi.Auth0",
+  "BasePath": "_content/MinimalWebApi.Auth0",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

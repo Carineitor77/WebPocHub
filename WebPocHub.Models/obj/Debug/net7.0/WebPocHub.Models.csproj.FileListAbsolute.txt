@@ -1,0 +1,12 @@
+D:\VS project\WEBAPI\WebPocHub\WebPocHub.Models\bin\Debug\net7.0\WebPocHub.Models.deps.json
+D:\VS project\WEBAPI\WebPocHub\WebPocHub.Models\bin\Debug\net7.0\WebPocHub.Models.dll
+D:\VS project\WEBAPI\WebPocHub\WebPocHub.Models\bin\Debug\net7.0\WebPocHub.Models.pdb
+D:\VS project\WEBAPI\WebPocHub\WebPocHub.Models\obj\Debug\net7.0\WebPocHub.Models.csproj.AssemblyReference.cache
+D:\VS project\WEBAPI\WebPocHub\WebPocHub.Models\obj\Debug\net7.0\WebPocHub.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS project\WEBAPI\WebPocHub\WebPocHub.Models\obj\Debug\net7.0\WebPocHub.Models.AssemblyInfoInputs.cache
+D:\VS project\WEBAPI\WebPocHub\WebPocHub.Models\obj\Debug\net7.0\WebPocHub.Models.AssemblyInfo.cs
+D:\VS project\WEBAPI\WebPocHub\WebPocHub.Models\obj\Debug\net7.0\WebPocHub.Models.csproj.CoreCompileInputs.cache
+D:\VS project\WEBAPI\WebPocHub\WebPocHub.Models\obj\Debug\net7.0\WebPocHub.Models.dll
+D:\VS project\WEBAPI\WebPocHub\WebPocHub.Models\obj\Debug\net7.0\refint\WebPocHub.Models.dll
+D:\VS project\WEBAPI\WebPocHub\WebPocHub.Models\obj\Debug\net7.0\WebPocHub.Models.pdb
+D:\VS project\WEBAPI\WebPocHub\WebPocHub.Models\obj\Debug\net7.0\ref\WebPocHub.Models.dll

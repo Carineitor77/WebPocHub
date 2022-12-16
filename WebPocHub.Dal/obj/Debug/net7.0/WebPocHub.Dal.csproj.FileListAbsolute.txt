@@ -1,0 +1,17 @@
+D:\VS project\WEBAPI\WebPocHub\WebPocHub.Dal\bin\Debug\net7.0\WebPocHub.Dal.deps.json
+D:\VS project\WEBAPI\WebPocHub\WebPocHub.Dal\bin\Debug\net7.0\WebPocHub.Dal.runtimeconfig.json
+D:\VS project\WEBAPI\WebPocHub\WebPocHub.Dal\bin\Debug\net7.0\WebPocHub.Dal.dll
+D:\VS project\WEBAPI\WebPocHub\WebPocHub.Dal\bin\Debug\net7.0\WebPocHub.Dal.pdb
+D:\VS project\WEBAPI\WebPocHub\WebPocHub.Dal\bin\Debug\net7.0\WebPocHub.Models.dll
+D:\VS project\WEBAPI\WebPocHub\WebPocHub.Dal\bin\Debug\net7.0\WebPocHub.Models.pdb
+D:\VS project\WEBAPI\WebPocHub\WebPocHub.Dal\obj\Debug\net7.0\WebPocHub.Dal.csproj.AssemblyReference.cache
+D:\VS project\WEBAPI\WebPocHub\WebPocHub.Dal\obj\Debug\net7.0\WebPocHub.Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS project\WEBAPI\WebPocHub\WebPocHub.Dal\obj\Debug\net7.0\WebPocHub.Dal.AssemblyInfoInputs.cache
+D:\VS project\WEBAPI\WebPocHub\WebPocHub.Dal\obj\Debug\net7.0\WebPocHub.Dal.AssemblyInfo.cs
+D:\VS project\WEBAPI\WebPocHub\WebPocHub.Dal\obj\Debug\net7.0\WebPocHub.Dal.csproj.CoreCompileInputs.cache
+D:\VS project\WEBAPI\WebPocHub\WebPocHub.Dal\obj\Debug\net7.0\WebPocHub.Dal.csproj.CopyComplete
+D:\VS project\WEBAPI\WebPocHub\WebPocHub.Dal\obj\Debug\net7.0\WebPocHub.Dal.dll
+D:\VS project\WEBAPI\WebPocHub\WebPocHub.Dal\obj\Debug\net7.0\refint\WebPocHub.Dal.dll
+D:\VS project\WEBAPI\WebPocHub\WebPocHub.Dal\obj\Debug\net7.0\WebPocHub.Dal.pdb
+D:\VS project\WEBAPI\WebPocHub\WebPocHub.Dal\obj\Debug\net7.0\WebPocHub.Dal.genruntimeconfig.cache
+D:\VS project\WEBAPI\WebPocHub\WebPocHub.Dal\obj\Debug\net7.0\ref\WebPocHub.Dal.dll
